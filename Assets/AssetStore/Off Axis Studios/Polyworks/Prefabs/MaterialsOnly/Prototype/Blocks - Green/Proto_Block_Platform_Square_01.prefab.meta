@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 056a18775c4cd8d4c91bb441b4b2c02e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233973
+  packageName: Low Poly Prototype Starter Pack - Polyworks
+  packageVersion: 1.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Prefabs/MaterialsOnly/Prototype/Blocks
+    - Green/Proto_Block_Platform_Square_01.prefab
+  uploadId: 533698

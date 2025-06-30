@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fae93127806e6447a8f9fc88e6dc795
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233973
+  packageName: Low Poly Prototype Starter Pack - Polyworks
+  packageVersion: 1.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Prefabs/MaterialsOnly/Prototype/Blocks
+    - Blue/Proto_Building_Block_Arch_Square_01.prefab
+  uploadId: 533698

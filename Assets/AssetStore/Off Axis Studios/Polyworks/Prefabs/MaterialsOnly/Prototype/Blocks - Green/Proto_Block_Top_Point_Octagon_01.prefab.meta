@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbd37a96eb3bf8a4aa01b414ea653bfb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233973
+  packageName: Low Poly Prototype Starter Pack - Polyworks
+  packageVersion: 1.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Prefabs/MaterialsOnly/Prototype/Blocks
+    - Green/Proto_Block_Top_Point_Octagon_01.prefab
+  uploadId: 533698

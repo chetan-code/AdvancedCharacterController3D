@@ -1,0 +1,412 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5171598203385645562
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5171598203385645563}
+  m_Layer: 0
+  m_Name: Proto_Vehicle_Car_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5171598203385645563
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5171598203385645562}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 790505496694796580}
+  - {fileID: 1838408524811432847}
+  - {fileID: 4255974191182392834}
+  - {fileID: 8948858594098966155}
+  - {fileID: 3843051036149359383}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &514513033505333607
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5171598203385645563}
+    m_Modifications:
+    - target: {fileID: 472960165535550201, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Car_Wheel_B_L_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.288
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 81e4a4aa932e8624a985914ff22d460e, type: 3}
+--- !u!4 &790505496694796580 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 998561545419509827, guid: 81e4a4aa932e8624a985914ff22d460e,
+    type: 3}
+  m_PrefabInstance: {fileID: 514513033505333607}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &816253569334861215
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5171598203385645563}
+    m_Modifications:
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.2376
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4253785213521439015, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Car_Wheel_F_L_01_Atlased
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8309b75f7c0b8d34a8cd02da451eeee8, type: 3}
+--- !u!4 &4255974191182392834 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3477812116649505693, guid: 8309b75f7c0b8d34a8cd02da451eeee8,
+    type: 3}
+  m_PrefabInstance: {fileID: 816253569334861215}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1140637587086468662
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5171598203385645563}
+    m_Modifications:
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.288
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2097795253634354947, guid: 163bf57145e4d964bb357f14eca8c8c8,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Car_Wheel_B_R_01_Atlased
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 163bf57145e4d964bb357f14eca8c8c8, type: 3}
+--- !u!4 &1838408524811432847 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1609769718524155321, guid: 163bf57145e4d964bb357f14eca8c8c8,
+    type: 3}
+  m_PrefabInstance: {fileID: 1140637587086468662}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4543374965618821294
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5171598203385645563}
+    m_Modifications:
+    - target: {fileID: 77648985783644419, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Car_Body_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8289a232b8939184dac6b22fce331dc0, type: 3}
+--- !u!4 &3843051036149359383 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 745361113448573881, guid: 8289a232b8939184dac6b22fce331dc0,
+    type: 3}
+  m_PrefabInstance: {fileID: 4543374965618821294}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4863510946839591423
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5171598203385645563}
+    m_Modifications:
+    - target: {fileID: 3748616286822780366, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Car_Wheel_F_R_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.2376
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5c8afb9e549b12245a40c3f136471545, type: 3}
+--- !u!4 &8948858594098966155 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4561603307904210804, guid: 5c8afb9e549b12245a40c3f136471545,
+    type: 3}
+  m_PrefabInstance: {fileID: 4863510946839591423}
+  m_PrefabAsset: {fileID: 0}

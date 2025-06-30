@@ -1,0 +1,564 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2321035970617714748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2321035970617714751}
+  m_Layer: 0
+  m_Name: Proto_Vehicle_Cessna_Plane_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2321035970617714751
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2321035970617714748}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2700296002089696289}
+  - {fileID: 3666103065164958785}
+  - {fileID: 6461648828045339019}
+  - {fileID: 8094085865480148839}
+  - {fileID: 4198476331664149397}
+  - {fileID: 7076385197711571228}
+  - {fileID: 4159560388058314819}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1770447657693498984
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2321035970617714751}
+    m_Modifications:
+    - target: {fileID: 8209616507032841678, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Cessna_Plane_Prop_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.828
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.758
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4a2623e9985e42a419fd45f6d20ca494, type: 3}
+--- !u!4 &7076385197711571228 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8837674472691496820, guid: 4a2623e9985e42a419fd45f6d20ca494,
+    type: 3}
+  m_PrefabInstance: {fileID: 1770447657693498984}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3804019790773487487
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2321035970617714751}
+    m_Modifications:
+    - target: {fileID: 448386711839057286, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Cessna_Plane_Rudder_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.9442
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.3488
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c1e4c33f0da807e44b670a712cdf5468, type: 3}
+--- !u!4 &4159560388058314819 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 969168897177321276, guid: c1e4c33f0da807e44b670a712cdf5468,
+    type: 3}
+  m_PrefabInstance: {fileID: 3804019790773487487}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4690759915164477329
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2321035970617714751}
+    m_Modifications:
+    - target: {fileID: 8075171957417408190, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Cessna_Plane_Elevator_R_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.44456
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.99424
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.0213
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f36bdc36e2cf5194a9372ad5c254ee86, type: 3}
+--- !u!4 &4198476331664149397 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8888723238687812612, guid: f36bdc36e2cf5194a9372ad5c254ee86,
+    type: 3}
+  m_PrefabInstance: {fileID: 4690759915164477329}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4965909753866203933
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2321035970617714751}
+    m_Modifications:
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.2559
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8369
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.54014
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9025558215228073446, guid: ac2f0cc0ba825324589fcc538cfd155c,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Cessna_Plane_Aileron_Flap_R_01_Atlased
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ac2f0cc0ba825324589fcc538cfd155c, type: 3}
+--- !u!4 &3666103065164958785 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8505867908842749788, guid: ac2f0cc0ba825324589fcc538cfd155c,
+    type: 3}
+  m_PrefabInstance: {fileID: 4965909753866203933}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5657111651898430597
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2321035970617714751}
+    m_Modifications:
+    - target: {fileID: 3862454100841273688, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Cessna_Plane_Elevator_L_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.44456
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.99424
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.0213
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 96b1bb2687c7b19418d24ff1ff78ce9a, type: 3}
+--- !u!4 &8094085865480148839 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4526646658025735138, guid: 96b1bb2687c7b19418d24ff1ff78ce9a,
+    type: 3}
+  m_PrefabInstance: {fileID: 5657111651898430597}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5832037192896703660
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2321035970617714751}
+    m_Modifications:
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.2559
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8369
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.54014
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141531717645863479, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Cessna_Plane_Aileron_Flap_L_01_Atlased
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 19aea42e4c57bd741bc10f9c132e19eb, type: 3}
+--- !u!4 &2700296002089696289 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8473221455655456909, guid: 19aea42e4c57bd741bc10f9c132e19eb,
+    type: 3}
+  m_PrefabInstance: {fileID: 5832037192896703660}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9035284272882898976
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2321035970617714751}
+    m_Modifications:
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3423990121888590609, guid: 6c4146aee216bb74998b43525381febf,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Vehicle_Cessna_Plane_Body_01_Atlased
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c4146aee216bb74998b43525381febf, type: 3}
+--- !u!4 &6461648828045339019 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2652519521170878891, guid: 6c4146aee216bb74998b43525381febf,
+    type: 3}
+  m_PrefabInstance: {fileID: 9035284272882898976}
+  m_PrefabAsset: {fileID: 0}

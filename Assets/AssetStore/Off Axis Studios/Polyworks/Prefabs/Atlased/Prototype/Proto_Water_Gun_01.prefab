@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &330843870260621046
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 330843870260621045}
+  m_Layer: 0
+  m_Name: Proto_Water_Gun_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &330843870260621045
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330843870260621046}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7686469132867761484}
+  - {fileID: 7522118473360911713}
+  - {fileID: 1118022648302767535}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1518897604255662849
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 330843870260621045}
+    m_Modifications:
+    - target: {fileID: 1286875361082348564, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Water_Gun_Pump_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.018
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6751be232bffcc544957e7d25f4722bb, type: 3}
+--- !u!4 &1118022648302767535 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1914090306269367982, guid: 6751be232bffcc544957e7d25f4722bb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1518897604255662849}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1660205558987337892
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 330843870260621045}
+    m_Modifications:
+    - target: {fileID: 8368253676266276735, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Water_Gun_Bottle_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.10249
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.247
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0fd539d9e89f2034bacd8ad8c7842cbd, type: 3}
+--- !u!4 &7522118473360911713 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9181101094062071237, guid: 0fd539d9e89f2034bacd8ad8c7842cbd,
+    type: 3}
+  m_PrefabInstance: {fileID: 1660205558987337892}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5878371967682460570
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 330843870260621045}
+    m_Modifications:
+    - target: {fileID: 3491466703587873900, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_Name
+      value: Proto_Water_Gun_Body_01_Atlased
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1653481b98be78943a6fb4f9e84179b6, type: 3}
+--- !u!4 &7686469132867761484 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269411190448705238, guid: 1653481b98be78943a6fb4f9e84179b6,
+    type: 3}
+  m_PrefabInstance: {fileID: 5878371967682460570}
+  m_PrefabAsset: {fileID: 0}

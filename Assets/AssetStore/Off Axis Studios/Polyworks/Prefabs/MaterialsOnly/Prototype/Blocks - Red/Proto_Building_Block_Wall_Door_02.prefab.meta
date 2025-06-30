@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff694eae0bdcb6e47b2b76e2b01e2aa8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233973
+  packageName: Low Poly Prototype Starter Pack - Polyworks
+  packageVersion: 1.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Prefabs/MaterialsOnly/Prototype/Blocks
+    - Red/Proto_Building_Block_Wall_Door_02.prefab
+  uploadId: 533698
