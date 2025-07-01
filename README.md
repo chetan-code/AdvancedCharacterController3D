@@ -1,5 +1,6 @@
 # Advanced Character Controller in Unity 3D
-A rigidbody based advanced character controller in unity 3d - with a climbing system.
+
+A rigidbody based advanced character controller in unity 3d - which uses State Machine for various player states like run, jump, climb, in-air etc.
 
 ## Climb System
 ![ClimbSystem](https://github.com/chetan-code/AdvancedCharacterController3D/blob/main/Assets/ZPreviews/ClimbingSupport.gif)
